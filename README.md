@@ -96,10 +96,6 @@ python pencil_sketch.py --image sample_input.jpg
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License – feel free to use and modify it.
-
 ---
 
-✨ *Made with Python & OpenCV by [Your Name]* ✨
+✨ *Made with Python & OpenCV by [SHALINI SAURAV]* ✨
