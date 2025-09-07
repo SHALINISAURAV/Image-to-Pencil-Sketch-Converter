@@ -43,7 +43,7 @@ Image-to-Pencil-Sketch/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/image-to-pencil-sketch.git
+   git clone https://github.com/SHALINISAURAV/image-to-pencil-sketch.git
    cd image-to-pencil-sketch
    ```
 
